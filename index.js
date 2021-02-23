@@ -177,5 +177,5 @@
   // EVENT LISTENERS**********************
   loadImgs()
   window.addEventListener('load', init)
-  window.addEventListener('resize', refreshPage)
+//   window.addEventListener('resize', refreshPage)
 })()
