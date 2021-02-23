@@ -78,10 +78,6 @@
 * {
   box-sizing: border-box;
 }
-html,
-body {
-  overscroll-behavior-y: contain;
-}
 html {
   height: 100%;
 }
