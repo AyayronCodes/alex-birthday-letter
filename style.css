@@ -78,7 +78,13 @@
 * {
   box-sizing: border-box;
 }
+html {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+}
 body {
+  position: relative;
   font-family: "Josefin Sans", sans-serif;
   width: 100%;
 }
